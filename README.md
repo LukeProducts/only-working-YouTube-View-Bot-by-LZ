@@ -15,3 +15,4 @@ Bitte beachten sie, dass nicht jeder Aufruf vom Web erkannt wird,
 da die Serveranfragen von teilweise weit entfernten Servern und somit IP-Adressen getätigt werden. 
 Dies ist aber kein negativer Effekt. 
 
+## NEW: updated_version-> THREADING ENABLED
