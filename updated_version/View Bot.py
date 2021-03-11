@@ -85,8 +85,12 @@ while True:
         print("#FALSE ENTRY#")
 while True:
     try:
-        threads = int(input("Threads:\n>> "))
-        break
+        threads = int(input("Threads: [be careful, too many threads could trigger thread errors, because of overloaded PCs -> recommended: < 10]\n>> "))
+        if threads > 0:
+            break
+        else:
+            print("Thread must be at least 1")
+            continue
     except:
         print("No Integer given")
         continue
