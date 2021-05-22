@@ -16,3 +16,6 @@ da die Serveranfragen von teilweise weit entfernten Servern und somit IP-Adresse
 Dies ist aber kein negativer Effekt. 
 
 ## NEW: updated_version-> THREADING ENABLED
+
+# DISCLAIMER: THIS IS FOR EDUCATIONAL PURPOSES ONLY! 
+# NO LIABILITY FOR ILLEGAL USE IS ASSUMED!
